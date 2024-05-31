@@ -1,3 +1,5 @@
+import Header from "@/components/header/Header";
+
 type Props = {
   children: React.ReactNode;
 };
