@@ -1,7 +1,12 @@
+import { Sheet, SheetTrigger } from "../ui/sheet"
 
 const MobileNav = () => {
   return (
-    <div>MobileNav</div>
+    <Sheet>
+        <SheetTrigger>
+            
+        </SheetTrigger>
+    </Sheet>
   )
 }
 
